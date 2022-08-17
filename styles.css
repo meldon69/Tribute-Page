@@ -4,6 +4,10 @@
   box-sizing: border-box;
 }
 
+body {
+  background: rgba(240, 242, 239, 0.75);
+}
+
 .header {
   text-align: center;
   background: rgba(166, 159, 152, 0.8);
@@ -23,7 +27,7 @@
 #img-div {
   text-align: center;
   padding: 2rem 0;
-  background: rgba(240, 242, 239, 0.75);
+  /* background: rgba(240, 242, 239, 0.75); */
   max-width: 50%;
   margin: 0 auto;
 }
