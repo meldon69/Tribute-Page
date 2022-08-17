@@ -4,4 +4,6 @@ Media Queries
 
 Color & Design
 
+Custom bullet points
+
 Git
