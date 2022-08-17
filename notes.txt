@@ -1,6 +1,6 @@
 ==== THINGS I NEED TO WORK ON ====
 
-Media Queries
+Media Queries & Optimal Sizing
 
 Color & Design
 
