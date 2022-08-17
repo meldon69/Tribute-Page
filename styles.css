@@ -1,0 +1,94 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.header {
+  text-align: center;
+  background: rgba(166, 159, 152, 0.8);
+  font-family: "Handlee", cursive;
+  padding: 1.5rem 0.75rem 1rem 0.75rem;
+  margin: 0 auto;
+}
+
+#title {
+  font-size: 4rem;
+}
+
+.quote {
+  font-size: 1.25rem;
+}
+
+#img-div {
+  text-align: center;
+  padding: 2rem 0;
+  background: rgba(240, 242, 239, 0.75);
+  max-width: 50%;
+  margin: 0 auto;
+}
+#image {
+  max-width: 100%;
+  height: auto;
+}
+
+#img-caption {
+  font-size: 1.25rem;
+  font-style: italic;
+  padding-top: 0.25rem;
+}
+
+#tribute-info {
+  font-size: 1.1rem;
+  line-height: 2rem;
+  font-family: "Habibi", serif;
+  background: rgb(240, 242, 239);
+}
+
+li {
+  padding-bottom: 1.5rem;
+  max-width: 65%;
+  margin: 0 auto;
+}
+
+.link {
+  text-align: center;
+  background: rgba(166, 159, 152, 0.8);
+  font-family: "Handlee", cursive;
+  padding: 2rem 1.5rem 0.75rem 1.5rem;
+  font-size: 1.35rem;
+  margin: auto;
+}
+
+@media screen and (max-width: 1600px) {
+  #img-div {
+    max-width: 60%;
+  }
+}
+
+@media screen and (max-width: 1300px) {
+  #img-div {
+    max-width: 70%;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  #img-div {
+    max-width: 85%;
+  }
+}
+
+@media screen and (max-width: 750px) {
+  #title {
+    font-size: 3rem;
+  }
+  .quote {
+    font-size: 1rem;
+  }
+  #img-caption {
+    font-size: 1rem;
+  }
+  .link {
+    font-size: 1.1rem;
+  }
+}

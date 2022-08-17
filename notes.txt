@@ -1,0 +1,7 @@
+==== THINGS I NEED TO WORK ON ====
+
+Media Queries
+
+Color & Design
+
+Git
